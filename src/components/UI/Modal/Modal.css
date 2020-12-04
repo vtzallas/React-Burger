@@ -18,3 +18,9 @@
         left: calc(50% - 250px);
     }
 }
+
+@media (max-height: 900px) {
+    .Modal {
+        top: 10%;
+    }
+}
